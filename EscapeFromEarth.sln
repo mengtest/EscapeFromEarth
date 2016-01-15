@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeFromEarth.CSharp.Plugins", "EscapeFromEarth.CSharp.Plugins.csproj", "{3A0406FA-46D5-5C35-0A11-60DDF4A67126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeFromEarth.CSharp", "EscapeFromEarth.CSharp.csproj", "{029BD6B9-FAD3-D73B-306A-1C92A4CB1316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeFromEarth.CSharp.Editor", "EscapeFromEarth.CSharp.Editor.csproj", "{A8C384A5-B54C-EB44-577E-A92E0D11FE9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0406FA-46D5-5C35-0A11-60DDF4A67126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0406FA-46D5-5C35-0A11-60DDF4A67126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0406FA-46D5-5C35-0A11-60DDF4A67126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0406FA-46D5-5C35-0A11-60DDF4A67126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029BD6B9-FAD3-D73B-306A-1C92A4CB1316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029BD6B9-FAD3-D73B-306A-1C92A4CB1316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029BD6B9-FAD3-D73B-306A-1C92A4CB1316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029BD6B9-FAD3-D73B-306A-1C92A4CB1316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8C384A5-B54C-EB44-577E-A92E0D11FE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C384A5-B54C-EB44-577E-A92E0D11FE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C384A5-B54C-EB44-577E-A92E0D11FE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C384A5-B54C-EB44-577E-A92E0D11FE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
